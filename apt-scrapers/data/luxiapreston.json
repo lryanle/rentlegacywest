@@ -1,0 +1,2186 @@
+{
+  "id": "85901",
+  "asset": {
+    "id": "29566",
+    "name": "Luxia Preston"
+  },
+  "asset_outbound_links": [],
+  "amenities": [
+    {
+      "id": "145243",
+      "title": "Pool",
+      "description": "Swimming Pool with Tanning Deck, Outdoor Entertaining Courtyard with Games, Grills, and Paseo",
+      "iframe_src": null,
+      "media": [
+        {
+          "id": "198642",
+          "type": "image",
+          "url": "https://cdn.sightmap.com/assets/40/vl/40vl3gqnvle/21/02/2102d456337d43d737f6a1c6c354b142.jpg"
+        },
+        {
+          "id": "198643",
+          "type": "image",
+          "url": "https://cdn.sightmap.com/assets/40/vl/40vl3gqnvle/38/40/3840aafaca830bbddb196d311315c073.jpg"
+        },
+        {
+          "id": "198644",
+          "type": "image",
+          "url": "https://cdn.sightmap.com/assets/40/vl/40vl3gqnvle/76/15/7615d9695365e812e8beb554f5d4ca15.jpg"
+        },
+        {
+          "id": "198646",
+          "type": "image",
+          "url": "https://cdn.sightmap.com/assets/40/vl/40vl3gqnvle/28/5d/285d8e58c6c7126d19731ef5705ec697.jpg"
+        },
+        {
+          "id": "198645",
+          "type": "image",
+          "url": "https://cdn.sightmap.com/assets/40/vl/40vl3gqnvle/a1/19/a1191ded064aa96a87ca1be33af38dc0.jpg"
+        }
+      ],
+      "gallery_name": "Pool",
+      "outbound_link_url": null,
+      "outbound_link_icon_url": null,
+      "outbound_link_icon_type": null,
+      "open_new_window": true
+    },
+    {
+      "id": "145241",
+      "title": "Clubroom",
+      "description": "Resident Lounge with Co-work Area and Private Conference Room, 24-Hour Coffee Bar with Nespresso Machine",
+      "iframe_src": null,
+      "media": [
+        {
+          "id": "198633",
+          "type": "image",
+          "url": "https://cdn.sightmap.com/assets/40/vl/40vl3gqnvle/90/29/90293b1707f6bbc984687945c5b9b42a.jpg"
+        },
+        {
+          "id": "198634",
+          "type": "image",
+          "url": "https://cdn.sightmap.com/assets/40/vl/40vl3gqnvle/ae/6e/ae6e088ca5be845accf6d068392d87ab.jpg"
+        },
+        {
+          "id": "198635",
+          "type": "image",
+          "url": "https://cdn.sightmap.com/assets/40/vl/40vl3gqnvle/e5/95/e5957f9734cd90248f9b05e70a11f2e9.jpg"
+        },
+        {
+          "id": "198637",
+          "type": "image",
+          "url": "https://cdn.sightmap.com/assets/40/vl/40vl3gqnvle/8f/b7/8fb762d9688ad8f708c103f3babeb49f.jpg"
+        },
+        {
+          "id": "198638",
+          "type": "image",
+          "url": "https://cdn.sightmap.com/assets/40/vl/40vl3gqnvle/5f/e9/5fe9db509d964be9028709d8b4ed5914.jpg"
+        },
+        {
+          "id": "198639",
+          "type": "image",
+          "url": "https://cdn.sightmap.com/assets/40/vl/40vl3gqnvle/28/41/2841beca314b0cf314c4f3a64056acc8.jpg"
+        }
+      ],
+      "gallery_name": "Clubroom",
+      "outbound_link_url": "https://my.matterport.com/show/?m=qQkvZwqoPhy",
+      "outbound_link_icon_url": "https://cdn.sightmap.com/app/icons/360-tour.svg",
+      "outbound_link_icon_type": "360_tour",
+      "open_new_window": true
+    },
+    {
+      "id": "145242",
+      "title": "Fitness",
+      "description": "24-Hour Fitness Center with Cardio, Strength, and Yoga Areas. Echelon Mirror and TRX Octagon Included.",
+      "iframe_src": null,
+      "media": [
+        {
+          "id": "198640",
+          "type": "image",
+          "url": "https://cdn.sightmap.com/assets/40/vl/40vl3gqnvle/9e/01/9e014944753a51ebc8ddd59d1d6b61dc.jpg"
+        },
+        {
+          "id": "198641",
+          "type": "image",
+          "url": "https://cdn.sightmap.com/assets/40/vl/40vl3gqnvle/89/d2/89d299962ae1fa59fbc688836f1c9277.jpg"
+        }
+      ],
+      "gallery_name": "Fitness",
+      "outbound_link_url": null,
+      "outbound_link_icon_url": null,
+      "outbound_link_icon_type": null,
+      "open_new_window": true
+    }
+  ],
+  "amenity_markers": [
+    {
+      "id": "175180",
+      "amenity_id": "145243",
+      "icon_id": "YW1lbml0eV9tYXJrZXJfaWNvbnMyNA",
+      "background_color": "#ffffff",
+      "background_border_color": "#1c1e4c",
+      "symbol_color": "#1c1e4c",
+      "translate": [
+        1044,
+        1083
+      ],
+      "translate_portrait": [
+        null,
+        null
+      ],
+      "size": [
+        50,
+        50
+      ],
+      "floors": [
+        "115965",
+        "115966",
+        "115967",
+        "115968"
+      ]
+    },
+    {
+      "id": "175181",
+      "amenity_id": "145241",
+      "icon_id": "YW1lbml0eV9tYXJrZXJfaWNvbnMzMA",
+      "background_color": "rgba(0,0,0,0)",
+      "background_border_color": "rgba(0,0,0,0)",
+      "symbol_color": "#1c1e4c",
+      "translate": [
+        915,
+        1093
+      ],
+      "translate_portrait": [
+        null,
+        null
+      ],
+      "size": [
+        50,
+        50
+      ],
+      "floors": [
+        "115965"
+      ]
+    },
+    {
+      "id": "175182",
+      "amenity_id": "145242",
+      "icon_id": "YW1lbml0eV9tYXJrZXJfaWNvbnMyNA",
+      "background_color": "rgba(0,0,0,0)",
+      "background_border_color": "rgba(0,0,0,0)",
+      "symbol_color": "#1c1e4c",
+      "translate": [
+        909,
+        976
+      ],
+      "translate_portrait": [
+        null,
+        null
+      ],
+      "size": [
+        50,
+        50
+      ],
+      "floors": [
+        "115965"
+      ]
+    }
+  ],
+  "amenity_marker_icons": [
+    {
+      "id": "YW1lbml0eV9tYXJrZXJfaWNvbnMyNA",
+      "url": "sightmap://icons/amenities/v1/photo.svg",
+      "name": "Photo",
+      "version": "2",
+      "size": [
+        512,
+        512
+      ],
+      "anchor": [
+        256,
+        256
+      ],
+      "hitarea": {
+        "r": "200",
+        "cx": "256",
+        "cy": "230",
+        "type": "Circle"
+      }
+    },
+    {
+      "id": "YW1lbml0eV9tYXJrZXJfaWNvbnMzMA",
+      "url": "sightmap://icons/amenities/v1/photo-and-tour.svg",
+      "name": "Photo and Tour",
+      "version": "2",
+      "size": [
+        512,
+        512
+      ],
+      "anchor": [
+        256,
+        256
+      ],
+      "hitarea": {
+        "r": "200",
+        "cx": "256",
+        "cy": "230",
+        "type": "Circle"
+      }
+    }
+  ],
+  "disclaimer": null,
+  "disclaimer_short": "*Price and availability are subject to change.",
+  "show_floor_plan_label": true,
+  "filters": [
+    {
+      "id": "26500",
+      "key": "floor_26500",
+      "filter_type": "floor",
+      "field_label": "Floor",
+      "options": [
+        {
+          "id": "114160",
+          "floor_id": "115965",
+          "label": null,
+          "short_label": null
+        },
+        {
+          "id": "114161",
+          "floor_id": "115966",
+          "label": null,
+          "short_label": null
+        },
+        {
+          "id": "114162",
+          "floor_id": "115967",
+          "label": null,
+          "short_label": null
+        },
+        {
+          "id": "114163",
+          "floor_id": "115968",
+          "label": null,
+          "short_label": null
+        }
+      ],
+      "list_sort": 1,
+      "name": "Floor"
+    },
+    {
+      "id": "76665",
+      "key": "range_76665",
+      "filter_type": "range",
+      "options": [
+        {
+          "id": "375431",
+          "label": "Any",
+          "min": null,
+          "max": null
+        },
+        {
+          "id": "375432",
+          "label": "Under $1,500",
+          "min": null,
+          "max": 1500
+        },
+        {
+          "id": "375433",
+          "label": "$1,500 - $2,000",
+          "min": 1500,
+          "max": 2000
+        },
+        {
+          "id": "375434",
+          "label": "$2,000 - $2,500",
+          "min": 2000,
+          "max": 2500
+        },
+        {
+          "id": "375435",
+          "label": "Over $2,500",
+          "min": 2500,
+          "max": null
+        }
+      ],
+      "field_label": "Price",
+      "list_sort": 2,
+      "name": "Unit Price"
+    },
+    {
+      "id": "76666",
+      "key": "range_76666",
+      "filter_type": "range",
+      "options": [
+        {
+          "id": "375436",
+          "label": "Any",
+          "min": null,
+          "max": null
+        },
+        {
+          "id": "375437",
+          "label": "Now - 30 Days",
+          "min": null,
+          "max": 30
+        },
+        {
+          "id": "375438",
+          "label": "30 - 60 Days",
+          "min": 30,
+          "max": 60
+        },
+        {
+          "id": "375439",
+          "label": "60 - 90 Days",
+          "min": 60,
+          "max": 90
+        },
+        {
+          "id": "375440",
+          "label": "Over 90 Days",
+          "min": 90,
+          "max": null
+        }
+      ],
+      "field_label": "Move-in Date",
+      "list_sort": 3,
+      "name": "Unit Move-in"
+    },
+    {
+      "id": "60246",
+      "key": "custom_60246",
+      "filter_type": "custom",
+      "field_label": "Bedrooms",
+      "options": [
+        {
+          "id": "216183",
+          "label": "Any"
+        },
+        {
+          "id": "216184",
+          "label": "Studio"
+        },
+        {
+          "id": "216185",
+          "label": "1 Bedroom"
+        },
+        {
+          "id": "216186",
+          "label": "2 Bedrooms"
+        },
+        {
+          "id": "216187",
+          "label": "3 Bedrooms"
+        }
+      ],
+      "list_sort": 4,
+      "name": "Bedrooms"
+    },
+    {
+      "id": "25412",
+      "key": "floor_plan_25412",
+      "filter_type": "floor_plan",
+      "field_label": "Floor Plan",
+      "options": [
+        {
+          "id": "480684",
+          "floor_plan_id": null,
+          "label": "Any"
+        },
+        {
+          "id": "480688",
+          "floor_plan_id": "523352",
+          "label": null
+        },
+        {
+          "id": "480708",
+          "floor_plan_id": "523372",
+          "label": null
+        },
+        {
+          "id": "480700",
+          "floor_plan_id": "523364",
+          "label": null
+        },
+        {
+          "id": "480698",
+          "floor_plan_id": "523362",
+          "label": null
+        },
+        {
+          "id": "480689",
+          "floor_plan_id": "523353",
+          "label": null
+        },
+        {
+          "id": "480695",
+          "floor_plan_id": "523359",
+          "label": null
+        },
+        {
+          "id": "480697",
+          "floor_plan_id": "523361",
+          "label": null
+        },
+        {
+          "id": "480701",
+          "floor_plan_id": "523365",
+          "label": null
+        },
+        {
+          "id": "480707",
+          "floor_plan_id": "523371",
+          "label": null
+        },
+        {
+          "id": "480693",
+          "floor_plan_id": "523357",
+          "label": null
+        },
+        {
+          "id": "480691",
+          "floor_plan_id": "523355",
+          "label": null
+        },
+        {
+          "id": "480687",
+          "floor_plan_id": "523351",
+          "label": null
+        },
+        {
+          "id": "480706",
+          "floor_plan_id": "523370",
+          "label": null
+        },
+        {
+          "id": "480704",
+          "floor_plan_id": "523368",
+          "label": null
+        },
+        {
+          "id": "480690",
+          "floor_plan_id": "523354",
+          "label": null
+        },
+        {
+          "id": "480694",
+          "floor_plan_id": "523358",
+          "label": null
+        },
+        {
+          "id": "480685",
+          "floor_plan_id": "523349",
+          "label": null
+        },
+        {
+          "id": "480692",
+          "floor_plan_id": "523356",
+          "label": null
+        },
+        {
+          "id": "480703",
+          "floor_plan_id": "523367",
+          "label": null
+        },
+        {
+          "id": "480699",
+          "floor_plan_id": "523363",
+          "label": null
+        },
+        {
+          "id": "480696",
+          "floor_plan_id": "523360",
+          "label": null
+        },
+        {
+          "id": "480702",
+          "floor_plan_id": "523366",
+          "label": null
+        },
+        {
+          "id": "480705",
+          "floor_plan_id": "523369",
+          "label": null
+        },
+        {
+          "id": "480709",
+          "floor_plan_id": "523373",
+          "label": null
+        }
+      ],
+      "list_sort": 5,
+      "name": "Floor Plan"
+    },
+    {
+      "id": "76667",
+      "key": "range_76667",
+      "filter_type": "range",
+      "options": [
+        {
+          "id": "375441",
+          "label": "Any",
+          "min": null,
+          "max": null
+        },
+        {
+          "id": "375442",
+          "label": "Under 750",
+          "min": null,
+          "max": 750
+        },
+        {
+          "id": "375443",
+          "label": "750 - 1,000",
+          "min": 750,
+          "max": 1000
+        },
+        {
+          "id": "375444",
+          "label": "1,000 - 1,250",
+          "min": 1000,
+          "max": 1250
+        },
+        {
+          "id": "375445",
+          "label": "Over 1,250",
+          "min": 1250,
+          "max": null
+        }
+      ],
+      "field_label": "Square Footage",
+      "list_sort": 6,
+      "name": "Square Footage"
+    }
+  ],
+  "filter_list": {
+    "reset_label": "Reset",
+    "custom_matches_label": "Your Matches"
+  },
+  "floor_list": {
+    "direction": "vertical",
+    "scrollable": true,
+    "show_horizontal_label": true,
+    "show_unit_count": true,
+    "top_down_search": false,
+    "unit_labels": {
+      "singular": "APT",
+      "plural": "APTS"
+    }
+  },
+  "floors": [
+    {
+      "id": "115965",
+      "filter_label": "Floor 1",
+      "filter_short_label": "1",
+      "has_units": true
+    },
+    {
+      "id": "115966",
+      "filter_label": "Floor 2",
+      "filter_short_label": "2",
+      "has_units": true
+    },
+    {
+      "id": "115967",
+      "filter_label": "Floor 3",
+      "filter_short_label": "3",
+      "has_units": true
+    },
+    {
+      "id": "115968",
+      "filter_label": "Floor 4",
+      "filter_short_label": "4",
+      "has_units": true
+    }
+  ],
+  "floor_picker": null,
+  "floor_plans": [
+    {
+      "id": "523349",
+      "expense_ids": [],
+      "name": "B5",
+      "bedroom_count": 2,
+      "bathroom_count": 2.5,
+      "bedroom_label": "2 Bed",
+      "bathroom_label": "2.5 Bath",
+      "filter_label": "B5",
+      "image_url": "https://cdn.sightmap.com/assets/40/vl/40vl3gqnvle/e9/fa/e9fa65ccb63d10c16d0ac3fd0fa03fc7.jpg",
+      "secondary_image_url": null,
+      "unit_color": {
+        "active": "#bfbdbc",
+        "base": null,
+        "highlight": "#7f7b7a"
+      }
+    },
+    {
+      "id": "523350",
+      "expense_ids": [],
+      "name": "TEMP",
+      "bedroom_count": 0,
+      "bathroom_count": 0,
+      "bedroom_label": "Studio",
+      "bathroom_label": "0 Bath",
+      "filter_label": "TEMP",
+      "image_url": null,
+      "secondary_image_url": null,
+      "unit_color": {
+        "active": null,
+        "base": null,
+        "highlight": null
+      }
+    },
+    {
+      "id": "523351",
+      "expense_ids": [],
+      "name": "B2",
+      "bedroom_count": 2,
+      "bathroom_count": 2,
+      "bedroom_label": "2 Bed",
+      "bathroom_label": "2 Bath",
+      "filter_label": "B2",
+      "image_url": "https://cdn.sightmap.com/assets/40/vl/40vl3gqnvle/76/d2/76d2b4f5a839270afd7928adc482ebf8.jpg",
+      "secondary_image_url": null,
+      "unit_color": {
+        "active": "#bfbdbc",
+        "base": null,
+        "highlight": "#7f7b7a"
+      }
+    },
+    {
+      "id": "523352",
+      "expense_ids": [],
+      "name": "A1",
+      "bedroom_count": 1,
+      "bathroom_count": 1,
+      "bedroom_label": "1 Bed",
+      "bathroom_label": "1 Bath",
+      "filter_label": "A1",
+      "image_url": "https://cdn.sightmap.com/assets/40/vl/40vl3gqnvle/73/3d/733de712236de156837100291667760d.jpg",
+      "secondary_image_url": null,
+      "unit_color": {
+        "active": "#d6edec",
+        "base": null,
+        "highlight": "#addcd9"
+      }
+    },
+    {
+      "id": "523353",
+      "expense_ids": [],
+      "name": "A2a",
+      "bedroom_count": 1,
+      "bathroom_count": 1,
+      "bedroom_label": "1 Bed",
+      "bathroom_label": "1 Bath",
+      "filter_label": "A2a",
+      "image_url": "https://cdn.sightmap.com/assets/40/vl/40vl3gqnvle/0e/ad/0eadb5ad0727a857c230aa3febc87935.jpg",
+      "secondary_image_url": null,
+      "unit_color": {
+        "active": "#d6edec",
+        "base": null,
+        "highlight": "#addcd9"
+      }
+    },
+    {
+      "id": "523354",
+      "expense_ids": [],
+      "name": "B3",
+      "bedroom_count": 2,
+      "bathroom_count": 2.5,
+      "bedroom_label": "2 Bed",
+      "bathroom_label": "2.5 Bath",
+      "filter_label": "B3",
+      "image_url": "https://cdn.sightmap.com/assets/40/vl/40vl3gqnvle/cc/ef/ccefcbd40e4432d9cc138b5dcd988113.jpg",
+      "secondary_image_url": null,
+      "unit_color": {
+        "active": "#bfbdbc",
+        "base": null,
+        "highlight": "#7f7b7a"
+      }
+    },
+    {
+      "id": "523355",
+      "expense_ids": [],
+      "name": "B1a",
+      "bedroom_count": 2,
+      "bathroom_count": 2,
+      "bedroom_label": "2 Bed",
+      "bathroom_label": "2 Bath",
+      "filter_label": "B1a",
+      "image_url": "https://cdn.sightmap.com/assets/40/vl/40vl3gqnvle/d8/28/d82851f96fce74d0b61fd355e4098eb1.jpg",
+      "secondary_image_url": null,
+      "unit_color": {
+        "active": "#bfbdbc",
+        "base": null,
+        "highlight": "#7f7b7a"
+      }
+    },
+    {
+      "id": "523356",
+      "expense_ids": [],
+      "name": "B5a",
+      "bedroom_count": 2,
+      "bathroom_count": 2.5,
+      "bedroom_label": "2 Bed",
+      "bathroom_label": "2.5 Bath",
+      "filter_label": "B5a",
+      "image_url": "https://cdn.sightmap.com/assets/40/vl/40vl3gqnvle/3d/b5/3db55cc6599e8351f6dece025eef5c43.jpg",
+      "secondary_image_url": null,
+      "unit_color": {
+        "active": "#bfbdbc",
+        "base": null,
+        "highlight": "#7f7b7a"
+      }
+    },
+    {
+      "id": "523357",
+      "expense_ids": [],
+      "name": "B1",
+      "bedroom_count": 2,
+      "bathroom_count": 2,
+      "bedroom_label": "2 Bed",
+      "bathroom_label": "2 Bath",
+      "filter_label": "B1",
+      "image_url": "https://cdn.sightmap.com/assets/40/vl/40vl3gqnvle/1e/b2/1eb22312f57090ef289164ec19b69abf.jpg",
+      "secondary_image_url": null,
+      "unit_color": {
+        "active": "#bfbdbc",
+        "base": null,
+        "highlight": "#7f7b7a"
+      }
+    },
+    {
+      "id": "523358",
+      "expense_ids": [],
+      "name": "B4",
+      "bedroom_count": 2,
+      "bathroom_count": 2.5,
+      "bedroom_label": "2 Bed",
+      "bathroom_label": "2.5 Bath",
+      "filter_label": "B4",
+      "image_url": "https://cdn.sightmap.com/assets/40/vl/40vl3gqnvle/49/59/49599b3fa342960c8ae2743df74fe77d.jpg",
+      "secondary_image_url": null,
+      "unit_color": {
+        "active": "#bfbdbc",
+        "base": null,
+        "highlight": "#7f7b7a"
+      }
+    },
+    {
+      "id": "523359",
+      "expense_ids": [],
+      "name": "A2b",
+      "bedroom_count": 1,
+      "bathroom_count": 1,
+      "bedroom_label": "1 Bed",
+      "bathroom_label": "1 Bath",
+      "filter_label": "A2b",
+      "image_url": "https://cdn.sightmap.com/assets/40/vl/40vl3gqnvle/11/7e/117e435fa437871c29b20ab61db3d93e.jpg",
+      "secondary_image_url": null,
+      "unit_color": {
+        "active": "#d6edec",
+        "base": null,
+        "highlight": "#addcd9"
+      }
+    },
+    {
+      "id": "523360",
+      "expense_ids": [],
+      "name": "C1a",
+      "bedroom_count": 3,
+      "bathroom_count": 3,
+      "bedroom_label": "3 Bed",
+      "bathroom_label": "3 Bath",
+      "filter_label": "C1a",
+      "image_url": "https://cdn.sightmap.com/assets/40/vl/40vl3gqnvle/49/a8/49a8b12ccb4a725e41089166560da811.jpg",
+      "secondary_image_url": null,
+      "unit_color": {
+        "active": "#b0c1f9",
+        "base": null,
+        "highlight": "#6184f3"
+      }
+    },
+    {
+      "id": "523361",
+      "expense_ids": [],
+      "name": "A2c",
+      "bedroom_count": 1,
+      "bathroom_count": 1,
+      "bedroom_label": "1 Bed",
+      "bathroom_label": "1 Bath",
+      "filter_label": "A2c",
+      "image_url": "https://cdn.sightmap.com/assets/40/vl/40vl3gqnvle/77/80/7780f156e3a2b15f0d60afef62140a5c.jpg",
+      "secondary_image_url": null,
+      "unit_color": {
+        "active": "#d6edec",
+        "base": null,
+        "highlight": "#addcd9"
+      }
+    },
+    {
+      "id": "523362",
+      "expense_ids": [],
+      "name": "A2",
+      "bedroom_count": 1,
+      "bathroom_count": 1,
+      "bedroom_label": "1 Bed",
+      "bathroom_label": "1 Bath",
+      "filter_label": "A2",
+      "image_url": "https://cdn.sightmap.com/assets/40/vl/40vl3gqnvle/34/aa/34aa8ac6ddc0cd7c43f092be0a11c878.jpg",
+      "secondary_image_url": null,
+      "unit_color": {
+        "active": "#d6edec",
+        "base": null,
+        "highlight": "#addcd9"
+      }
+    },
+    {
+      "id": "523363",
+      "expense_ids": [],
+      "name": "C1",
+      "bedroom_count": 3,
+      "bathroom_count": 3,
+      "bedroom_label": "3 Bed",
+      "bathroom_label": "3 Bath",
+      "filter_label": "C1",
+      "image_url": "https://cdn.sightmap.com/assets/40/vl/40vl3gqnvle/b4/18/b418dc2518f86c8afc537c97c37d999c.jpg",
+      "secondary_image_url": null,
+      "unit_color": {
+        "active": "#b0c1f9",
+        "base": null,
+        "highlight": "#6184f3"
+      }
+    },
+    {
+      "id": "523364",
+      "expense_ids": [],
+      "name": "A1b",
+      "bedroom_count": 1,
+      "bathroom_count": 1,
+      "bedroom_label": "1 Bed",
+      "bathroom_label": "1 Bath",
+      "filter_label": "A1b",
+      "image_url": "https://cdn.sightmap.com/assets/40/vl/40vl3gqnvle/8f/f5/8ff5a20e3fb9620e5f74912568ed3692.jpg",
+      "secondary_image_url": null,
+      "unit_color": {
+        "active": "#d6edec",
+        "base": null,
+        "highlight": "#addcd9"
+      }
+    },
+    {
+      "id": "523365",
+      "expense_ids": [],
+      "name": "A3",
+      "bedroom_count": 1,
+      "bathroom_count": 1,
+      "bedroom_label": "1 Bed",
+      "bathroom_label": "1 Bath",
+      "filter_label": "A3",
+      "image_url": "https://cdn.sightmap.com/assets/40/vl/40vl3gqnvle/d1/4d/d14d3983f3bb4cd99f2d4cf9072de109.jpg",
+      "secondary_image_url": null,
+      "unit_color": {
+        "active": "#d6edec",
+        "base": null,
+        "highlight": "#addcd9"
+      }
+    },
+    {
+      "id": "523366",
+      "expense_ids": [],
+      "name": "E1",
+      "bedroom_count": 0,
+      "bathroom_count": 1,
+      "bedroom_label": "Studio",
+      "bathroom_label": "1 Bath",
+      "filter_label": "E1",
+      "image_url": "https://cdn.sightmap.com/assets/40/vl/40vl3gqnvle/0e/84/0e846468d48fe13384ea9b74ef8a3c62.jpg",
+      "secondary_image_url": null,
+      "unit_color": {
+        "active": "#a9f4fc",
+        "base": null,
+        "highlight": "#54e9f9"
+      }
+    },
+    {
+      "id": "523367",
+      "expense_ids": [],
+      "name": "B5b",
+      "bedroom_count": 2,
+      "bathroom_count": 2.5,
+      "bedroom_label": "2 Bed",
+      "bathroom_label": "2.5 Bath",
+      "filter_label": "B5b",
+      "image_url": "https://cdn.sightmap.com/assets/40/vl/40vl3gqnvle/0a/26/0a267cd17597e0de1ac97f0ecbefdf33.jpg",
+      "secondary_image_url": null,
+      "unit_color": {
+        "active": "#bfbdbc",
+        "base": null,
+        "highlight": "#7f7b7a"
+      }
+    },
+    {
+      "id": "523368",
+      "expense_ids": [],
+      "name": "B2b",
+      "bedroom_count": 2,
+      "bathroom_count": 2,
+      "bedroom_label": "2 Bed",
+      "bathroom_label": "2 Bath",
+      "filter_label": "B2b",
+      "image_url": "https://cdn.sightmap.com/assets/40/vl/40vl3gqnvle/58/92/5892b546eac04750eef02ea5277f113d.jpg",
+      "secondary_image_url": null,
+      "unit_color": {
+        "active": "#bfbdbc",
+        "base": null,
+        "highlight": "#7f7b7a"
+      }
+    },
+    {
+      "id": "523369",
+      "expense_ids": [],
+      "name": "E2",
+      "bedroom_count": 0,
+      "bathroom_count": 1,
+      "bedroom_label": "Studio",
+      "bathroom_label": "1 Bath",
+      "filter_label": "E2",
+      "image_url": "https://cdn.sightmap.com/assets/40/vl/40vl3gqnvle/98/77/9877848015c9ed386db01e6cc3f181af.jpg",
+      "secondary_image_url": null,
+      "unit_color": {
+        "active": "#a9f4fc",
+        "base": null,
+        "highlight": "#54e9f9"
+      }
+    },
+    {
+      "id": "523370",
+      "expense_ids": [],
+      "name": "B2a",
+      "bedroom_count": 2,
+      "bathroom_count": 2,
+      "bedroom_label": "2 Bed",
+      "bathroom_label": "2 Bath",
+      "filter_label": "B2a",
+      "image_url": "https://cdn.sightmap.com/assets/40/vl/40vl3gqnvle/85/f8/85f8c8b43c7f8ddc529fe1d445225ea5.jpg",
+      "secondary_image_url": null,
+      "unit_color": {
+        "active": "#bfbdbc",
+        "base": null,
+        "highlight": "#7f7b7a"
+      }
+    },
+    {
+      "id": "523371",
+      "expense_ids": [],
+      "name": "A4",
+      "bedroom_count": 1,
+      "bathroom_count": 1,
+      "bedroom_label": "1 Bed",
+      "bathroom_label": "1 Bath",
+      "filter_label": "A4",
+      "image_url": "https://cdn.sightmap.com/assets/40/vl/40vl3gqnvle/50/bf/50bf95351dd287af7ff67d4f3d767c66.jpg",
+      "secondary_image_url": null,
+      "unit_color": {
+        "active": "#d6edec",
+        "base": null,
+        "highlight": "#addcd9"
+      }
+    },
+    {
+      "id": "523372",
+      "expense_ids": [],
+      "name": "A1a",
+      "bedroom_count": 1,
+      "bathroom_count": 1,
+      "bedroom_label": "1 Bed",
+      "bathroom_label": "1 Bath",
+      "filter_label": "A1a",
+      "image_url": "https://cdn.sightmap.com/assets/40/vl/40vl3gqnvle/d6/42/d642867c4f94523e1e70e7d1e3344f3a.jpg",
+      "secondary_image_url": null,
+      "unit_color": {
+        "active": "#d6edec",
+        "base": null,
+        "highlight": "#addcd9"
+      }
+    },
+    {
+      "id": "523373",
+      "expense_ids": [],
+      "name": "E2a",
+      "bedroom_count": 0,
+      "bathroom_count": 1,
+      "bedroom_label": "Studio",
+      "bathroom_label": "1 Bath",
+      "filter_label": "E2a",
+      "image_url": "https://cdn.sightmap.com/assets/40/vl/40vl3gqnvle/17/87/17871be7a97d161ca9aaa079c7a739c5.jpg",
+      "secondary_image_url": null,
+      "unit_color": {
+        "active": "#a9f4fc",
+        "base": null,
+        "highlight": "#54e9f9"
+      }
+    }
+  ],
+  "default_placeholder_image": "https://cdn.sightmap.com/app/placeholders/generic-without-label.png",
+  "default_placeholder_display_alt": "A placeholder image with a camera icon.",
+  "mobile_drawer_default": "closed",
+  "use_scroll_lock_on": "mobile",
+  "allow_show_all_floors": false,
+  "default_show_all_floors": false,
+  "show_floor_selection": true,
+  "show_building_number": false,
+  "disable_no_match_filter_option": true,
+  "show_all_available_units_in_unit_list": false,
+  "mobile_floor_selector_position": "top",
+  "show_online_leasing": true,
+  "show_unit_number_search": true,
+  "show_unit_tooltip_on_hover": true,
+  "show_special_discount_in_unit_list": true,
+  "show_special_discount_in_unit_tooltip": true,
+  "show_unit_description_apply_tab": false,
+  "show_unit_outbound_links_on_each_tab": true,
+  "show_locator": true,
+  "show_locator_help_tooltip": true,
+  "show_floor_plan_then_unit_number_in_unit_list": false,
+  "show_unit_list_icons": true,
+  "show_floor_plan_and_unit_images": true,
+  "show_map_view_selector": true,
+  "map_view_selections": [
+    {
+      "label": "Floor Plate",
+      "sort_order": 1,
+      "value": "floorPlate",
+      "is_enabled": true
+    },
+    {
+      "label": "Street",
+      "sort_order": 2,
+      "value": "geoStreet",
+      "is_enabled": true
+    },
+    {
+      "label": "Satellite",
+      "sort_order": 3,
+      "value": "geoSatellite",
+      "is_enabled": false
+    }
+  ],
+  "share_landing_page": {
+    "id": 89821,
+    "name": "Landing Page",
+    "url": "https://sightmap.com/share/8xvr4j1lpjk"
+  },
+  "sightmap_branding": "show_logo_with_link",
+  "leasing": {
+    "id": "16386",
+    "days_out": 90,
+    "provider_type": "yardi_rentcafe",
+    "leasing_apply_label": "Apply",
+    "show_date_selector": true,
+    "show_term_selector": true,
+    "open_in_new_browser_window": true
+  },
+  "unit_list_zoom_on_unit": false,
+  "query_api": {
+    "zoom_on_unit": true,
+    "zoom_on_unit_scale_factor": 0.1
+  },
+  "theme": {
+    "primary_font_family": "'Open Sans',Helvetica Neue,Helvetica,Arial,sans-serif",
+    "primary_font_color": "#000000",
+    "primary_font_tracking": 25,
+    "secondary_font_family": "'Open Sans',Helvetica Neue,Helvetica,Arial,sans-serif",
+    "secondary_font_color": "#000000",
+    "secondary_font_tracking": 50,
+    "background_color": "#ffffff",
+    "input_placeholder_font_color": "#999999",
+    "filter_background_color": "#1c1e4c",
+    "filter_reset_base_color": "#ffffff",
+    "filter_reset_highlight_color": "#c69c81",
+    "media_tabs_background_color": "#eeeeee",
+    "media_tabs_base_color": "#1c1e4c",
+    "media_tabs_highlight_color": "#757575",
+    "media_tabs_font_base_color": "#ffffff",
+    "media_tabs_font_highlight_color": "#ffffff",
+    "media_tabs_border_base_color": "#1c1e4c",
+    "media_tabs_border_highlight_color": "#757575",
+    "mobile_tabs_base_color": "#1c1e4c",
+    "mobile_tabs_font_base_color": "#ffffff",
+    "mobile_tabs_highlight_color": "#757575",
+    "mobile_tabs_font_highlight_color": "#ffffff",
+    "footer_background_color": "#f4f4f4",
+    "unit_tooltip_background_color": "#f4f4f4",
+    "unit_modal_overlay_color": "rgba(255,255,255,0.8)",
+    "button_base_color": "#1c1e4c",
+    "button_highlight_color": "#757575",
+    "button_font_base_color": "#ffffff",
+    "button_font_highlight_color": "#ffffff",
+    "button_border_base_color": "#1c1e4c",
+    "button_border_highlight_color": "#757575",
+    "floor_select_base_color": "#1c1e4c",
+    "floor_select_font_base_color": "#ffffff",
+    "floor_select_border_base_color": "#1c1e4c",
+    "floor_select_highlight_color": "#757575",
+    "floor_select_font_highlight_color": "#ffffff",
+    "floor_select_border_highlight_color": "#757575",
+    "unit_list_highlight_color": "#e2cdc0",
+    "zoom_controls_base_color": "#1c1e4c",
+    "ui_base_line_color": "#f4f4f4",
+    "select_field_border_color": "#999999"
+  },
+  "unit_details_modal": {
+    "cover_image": {
+      "mobile_layout": "contain"
+    },
+    "media_tabs": {
+      "floor_plan_label": "3D",
+      "floor_plan_label_secondary": "2D",
+      "view_label": "View",
+      "view_label_secondary": "Interior"
+    }
+  },
+  "unit_map": {
+    "style_type": "floor_plate",
+    "geojson_url": "https://cdn.sightmap.com/assets/40/vl/40vl3gqnvle/24/49/24492d4ab38bc8a9c50a69b719f850ca.geojson",
+    "max_scale": 5,
+    "background_image_url": "https://cdn.sightmap.com/assets/40/vl/40vl3gqnvle/50/b8/50b8158204719696bd2b68959e947607.jpg",
+    "url": "https://cdn.sightmap.com/assets/40/vl/40vl3gqnvle/f4/bb/f4bbde72100e1984f29659cf12f8d769.umap",
+    "portrait_url": null,
+    "background_image_portrait_url": null
+  },
+  "unit_list": {
+    "show_unit_count": true
+  },
+  "primary_units_sort_by": {
+    "column": "unit_number",
+    "direction": "asc"
+  },
+  "secondary_units_sort_by": null,
+  "unit": {
+    "show_bedroom_labels": true,
+    "show_bathroom_labels": true,
+    "show_area_labels": true,
+    "use_floorplan_colors": true,
+    "colors": {
+      "base": "#ffffff",
+      "highlight": "#c69c81",
+      "active": "#e2cdc0"
+    }
+  },
+  "unit_disclaimers": null,
+  "unit_descriptions": [],
+  "unit_description_tabs": [],
+  "unit_statuses": null,
+  "unit_references": null,
+  "units": [
+    {
+      "id": "9846765",
+      "expenses": [],
+      "display_expenses": false,
+      "total_additional_expenses": [
+        0,
+        0
+      ],
+      "unit_disclaimer_id": null,
+      "floor_id": "115965",
+      "floor_plan_id": "523350",
+      "status_id": null,
+      "unit_number": "1116",
+      "display_unit_number": "APT 1116",
+      "display_area": "1 sq. ft.",
+      "area": 1,
+      "total_display_full_price": null,
+      "display_full_price": null,
+      "display_price": "$2,670.00",
+      "price": 2670,
+      "total_price": [
+        2670,
+        2670
+      ],
+      "total_display_price": "$2,670.00",
+      "show_online_leasing": true,
+      "specials_description": null,
+      "display_available_on": "Available Now",
+      "display_lease_term": "15 Months",
+      "available_on": "2025-01-28",
+      "view_image_url": null,
+      "secondary_view_image_url": null,
+      "filters": {
+        "floor_26500": [
+          0
+        ],
+        "range_76665": [
+          0,
+          4
+        ],
+        "range_76666": [
+          0,
+          1
+        ],
+        "custom_60246": [
+          0,
+          1
+        ],
+        "floor_plan_25412": [
+          0
+        ],
+        "range_76667": [
+          0,
+          1
+        ]
+      },
+      "leasing_price_url": "https://sightmap.com/app/api/v1/leasing/yzvgd86yvln/unit/9846765?sightmap_id=85901&currency_code=USD",
+      "leasing_start_dates_url": "https://sightmap.com/app/api/v1/leasing/yzvgd86yvln/unit/9846765/start-dates?show_days_out_from_available_date=0",
+      "outbound_links": [
+        {
+          "id": "36097",
+          "iframe_event_key": null,
+          "link_type": "url_template",
+          "url": "https://www.luxiapreston.com/?utm_knock=w&doorway=schedule",
+          "label": "Schedule a Tour",
+          "icon_url": "https://cdn.sightmap.com/app/icons/calendar.svg",
+          "icon_type": "calendar",
+          "open_new_window": false
+        },
+        {
+          "id": "36098",
+          "iframe_event_key": null,
+          "link_type": "url_template",
+          "url": "https://www.luxiapreston.com/apartments/tx/plano/contact-us",
+          "label": "Contact Us",
+          "icon_url": "https://cdn.sightmap.com/app/icons/email.svg",
+          "icon_type": "email",
+          "open_new_window": true
+        },
+        null
+      ],
+      "content_type_icon": null,
+      "icon": null,
+      "descriptions": [],
+      "building": "1",
+      "affordable_housing_info": {
+        "is_affordable_housing_unit": false,
+        "affordable_housing_unit_display": null,
+        "affordable_housing_unit_disclaimer": null,
+        "affordable_housing_unit_disclaimer_title": null
+      }
+    },
+    {
+      "id": "9846778",
+      "expenses": [],
+      "display_expenses": false,
+      "total_additional_expenses": [
+        0,
+        0
+      ],
+      "unit_disclaimer_id": null,
+      "floor_id": "115965",
+      "floor_plan_id": "523359",
+      "status_id": null,
+      "unit_number": "1131",
+      "display_unit_number": "APT 1131",
+      "display_area": "807 sq. ft.",
+      "area": 807,
+      "total_display_full_price": null,
+      "display_full_price": null,
+      "display_price": "$1,841.00",
+      "price": 1841,
+      "total_price": [
+        1841,
+        1841
+      ],
+      "total_display_price": "$1,841.00",
+      "show_online_leasing": true,
+      "specials_description": null,
+      "display_available_on": "Available Feb 1st",
+      "display_lease_term": "12 Months",
+      "available_on": "2025-02-01",
+      "view_image_url": null,
+      "secondary_view_image_url": null,
+      "filters": {
+        "floor_26500": [
+          0
+        ],
+        "range_76665": [
+          0,
+          2
+        ],
+        "range_76666": [
+          0,
+          1
+        ],
+        "custom_60246": [
+          0,
+          2
+        ],
+        "floor_plan_25412": [
+          0,
+          6
+        ],
+        "range_76667": [
+          0,
+          2
+        ]
+      },
+      "leasing_price_url": "https://sightmap.com/app/api/v1/leasing/yzvgd86yvln/unit/9846778?sightmap_id=85901&currency_code=USD",
+      "leasing_start_dates_url": "https://sightmap.com/app/api/v1/leasing/yzvgd86yvln/unit/9846778/start-dates?show_days_out_from_available_date=0",
+      "outbound_links": [
+        {
+          "id": "36097",
+          "iframe_event_key": null,
+          "link_type": "url_template",
+          "url": "https://www.luxiapreston.com/?utm_knock=w&doorway=schedule",
+          "label": "Schedule a Tour",
+          "icon_url": "https://cdn.sightmap.com/app/icons/calendar.svg",
+          "icon_type": "calendar",
+          "open_new_window": false
+        },
+        {
+          "id": "36098",
+          "iframe_event_key": null,
+          "link_type": "url_template",
+          "url": "https://www.luxiapreston.com/apartments/tx/plano/contact-us",
+          "label": "Contact Us",
+          "icon_url": "https://cdn.sightmap.com/app/icons/email.svg",
+          "icon_type": "email",
+          "open_new_window": true
+        },
+        {
+          "id": "36125",
+          "iframe_event_key": null,
+          "link_type": "urls_per_unit",
+          "url": "https://my.matterport.com/show/?m=FbUhNWKai4J",
+          "label": "View Virtual Tour",
+          "icon_url": "https://cdn.sightmap.com/app/icons/360-tour.svg",
+          "icon_type": "360_tour",
+          "open_new_window": true
+        }
+      ],
+      "content_type_icon": {
+        "name": "360_tour",
+        "icon_url": "https://cdn.sightmap.com/app/icons/360-tour.svg"
+      },
+      "icon": null,
+      "descriptions": [],
+      "building": "1",
+      "affordable_housing_info": {
+        "is_affordable_housing_unit": false,
+        "affordable_housing_unit_display": null,
+        "affordable_housing_unit_disclaimer": null,
+        "affordable_housing_unit_disclaimer_title": null
+      }
+    },
+    {
+      "id": "9846779",
+      "expenses": [],
+      "display_expenses": false,
+      "total_additional_expenses": [
+        0,
+        0
+      ],
+      "unit_disclaimer_id": null,
+      "floor_id": "115965",
+      "floor_plan_id": "523352",
+      "status_id": null,
+      "unit_number": "1132",
+      "display_unit_number": "APT 1132",
+      "display_area": "722 sq. ft.",
+      "area": 722,
+      "total_display_full_price": null,
+      "display_full_price": null,
+      "display_price": "$1,769.00",
+      "price": 1769,
+      "total_price": [
+        1769,
+        1769
+      ],
+      "total_display_price": "$1,769.00",
+      "show_online_leasing": true,
+      "specials_description": null,
+      "display_available_on": "Available Now",
+      "display_lease_term": "12 Months",
+      "available_on": "2025-01-28",
+      "view_image_url": null,
+      "secondary_view_image_url": null,
+      "filters": {
+        "floor_26500": [
+          0
+        ],
+        "range_76665": [
+          0,
+          2
+        ],
+        "range_76666": [
+          0,
+          1
+        ],
+        "custom_60246": [
+          0,
+          2
+        ],
+        "floor_plan_25412": [
+          0,
+          1
+        ],
+        "range_76667": [
+          0,
+          1
+        ]
+      },
+      "leasing_price_url": "https://sightmap.com/app/api/v1/leasing/yzvgd86yvln/unit/9846779?sightmap_id=85901&currency_code=USD",
+      "leasing_start_dates_url": "https://sightmap.com/app/api/v1/leasing/yzvgd86yvln/unit/9846779/start-dates?show_days_out_from_available_date=0",
+      "outbound_links": [
+        {
+          "id": "36097",
+          "iframe_event_key": null,
+          "link_type": "url_template",
+          "url": "https://www.luxiapreston.com/?utm_knock=w&doorway=schedule",
+          "label": "Schedule a Tour",
+          "icon_url": "https://cdn.sightmap.com/app/icons/calendar.svg",
+          "icon_type": "calendar",
+          "open_new_window": false
+        },
+        {
+          "id": "36098",
+          "iframe_event_key": null,
+          "link_type": "url_template",
+          "url": "https://www.luxiapreston.com/apartments/tx/plano/contact-us",
+          "label": "Contact Us",
+          "icon_url": "https://cdn.sightmap.com/app/icons/email.svg",
+          "icon_type": "email",
+          "open_new_window": true
+        },
+        {
+          "id": "36125",
+          "iframe_event_key": null,
+          "link_type": "urls_per_unit",
+          "url": "https://my.matterport.com/show/?m=FbUhNWKai4J",
+          "label": "View Virtual Tour",
+          "icon_url": "https://cdn.sightmap.com/app/icons/360-tour.svg",
+          "icon_type": "360_tour",
+          "open_new_window": true
+        }
+      ],
+      "content_type_icon": {
+        "name": "360_tour",
+        "icon_url": "https://cdn.sightmap.com/app/icons/360-tour.svg"
+      },
+      "icon": null,
+      "descriptions": [],
+      "building": "1",
+      "affordable_housing_info": {
+        "is_affordable_housing_unit": false,
+        "affordable_housing_unit_display": null,
+        "affordable_housing_unit_disclaimer": null,
+        "affordable_housing_unit_disclaimer_title": null
+      }
+    },
+    {
+      "id": "9846796",
+      "expenses": [],
+      "display_expenses": false,
+      "total_additional_expenses": [
+        0,
+        0
+      ],
+      "unit_disclaimer_id": null,
+      "floor_id": "115965",
+      "floor_plan_id": "523362",
+      "status_id": null,
+      "unit_number": "1153",
+      "display_unit_number": "APT 1153",
+      "display_area": "769 sq. ft.",
+      "area": 769,
+      "total_display_full_price": null,
+      "display_full_price": null,
+      "display_price": "$1,869.00",
+      "price": 1869,
+      "total_price": [
+        1869,
+        1869
+      ],
+      "total_display_price": "$1,869.00",
+      "show_online_leasing": true,
+      "specials_description": null,
+      "display_available_on": "Available Now",
+      "display_lease_term": "12 Months",
+      "available_on": "2025-01-28",
+      "view_image_url": null,
+      "secondary_view_image_url": null,
+      "filters": {
+        "floor_26500": [
+          0
+        ],
+        "range_76665": [
+          0,
+          2
+        ],
+        "range_76666": [
+          0,
+          1
+        ],
+        "custom_60246": [
+          0,
+          2
+        ],
+        "floor_plan_25412": [
+          0,
+          4
+        ],
+        "range_76667": [
+          0,
+          2
+        ]
+      },
+      "leasing_price_url": "https://sightmap.com/app/api/v1/leasing/yzvgd86yvln/unit/9846796?sightmap_id=85901&currency_code=USD",
+      "leasing_start_dates_url": "https://sightmap.com/app/api/v1/leasing/yzvgd86yvln/unit/9846796/start-dates?show_days_out_from_available_date=0",
+      "outbound_links": [
+        {
+          "id": "36097",
+          "iframe_event_key": null,
+          "link_type": "url_template",
+          "url": "https://www.luxiapreston.com/?utm_knock=w&doorway=schedule",
+          "label": "Schedule a Tour",
+          "icon_url": "https://cdn.sightmap.com/app/icons/calendar.svg",
+          "icon_type": "calendar",
+          "open_new_window": false
+        },
+        {
+          "id": "36098",
+          "iframe_event_key": null,
+          "link_type": "url_template",
+          "url": "https://www.luxiapreston.com/apartments/tx/plano/contact-us",
+          "label": "Contact Us",
+          "icon_url": "https://cdn.sightmap.com/app/icons/email.svg",
+          "icon_type": "email",
+          "open_new_window": true
+        },
+        {
+          "id": "36125",
+          "iframe_event_key": null,
+          "link_type": "urls_per_unit",
+          "url": "https://my.matterport.com/show/?m=FbUhNWKai4J",
+          "label": "View Virtual Tour",
+          "icon_url": "https://cdn.sightmap.com/app/icons/360-tour.svg",
+          "icon_type": "360_tour",
+          "open_new_window": true
+        }
+      ],
+      "content_type_icon": {
+        "name": "360_tour",
+        "icon_url": "https://cdn.sightmap.com/app/icons/360-tour.svg"
+      },
+      "icon": null,
+      "descriptions": [],
+      "building": "1",
+      "affordable_housing_info": {
+        "is_affordable_housing_unit": false,
+        "affordable_housing_unit_display": null,
+        "affordable_housing_unit_disclaimer": null,
+        "affordable_housing_unit_disclaimer_title": null
+      }
+    },
+    {
+      "id": "9846817",
+      "expenses": [],
+      "display_expenses": false,
+      "total_additional_expenses": [
+        0,
+        0
+      ],
+      "unit_disclaimer_id": null,
+      "floor_id": "115966",
+      "floor_plan_id": "523354",
+      "status_id": null,
+      "unit_number": "1218",
+      "display_unit_number": "APT 1218",
+      "display_area": "1,323 sq. ft.",
+      "area": 1323,
+      "total_display_full_price": null,
+      "display_full_price": null,
+      "display_price": "$2,620.00",
+      "price": 2620,
+      "total_price": [
+        2620,
+        2620
+      ],
+      "total_display_price": "$2,620.00",
+      "show_online_leasing": true,
+      "specials_description": null,
+      "display_available_on": "Available Mar 21st",
+      "display_lease_term": "14 Months",
+      "available_on": "2025-03-21",
+      "view_image_url": null,
+      "secondary_view_image_url": null,
+      "filters": {
+        "floor_26500": [
+          1
+        ],
+        "range_76665": [
+          0,
+          4
+        ],
+        "range_76666": [
+          0,
+          2
+        ],
+        "custom_60246": [
+          0,
+          3
+        ],
+        "floor_plan_25412": [
+          0,
+          15
+        ],
+        "range_76667": [
+          0,
+          4
+        ]
+      },
+      "leasing_price_url": "https://sightmap.com/app/api/v1/leasing/yzvgd86yvln/unit/9846817?sightmap_id=85901&currency_code=USD",
+      "leasing_start_dates_url": "https://sightmap.com/app/api/v1/leasing/yzvgd86yvln/unit/9846817/start-dates?show_days_out_from_available_date=0",
+      "outbound_links": [
+        {
+          "id": "36097",
+          "iframe_event_key": null,
+          "link_type": "url_template",
+          "url": "https://www.luxiapreston.com/?utm_knock=w&doorway=schedule",
+          "label": "Schedule a Tour",
+          "icon_url": "https://cdn.sightmap.com/app/icons/calendar.svg",
+          "icon_type": "calendar",
+          "open_new_window": false
+        },
+        {
+          "id": "36098",
+          "iframe_event_key": null,
+          "link_type": "url_template",
+          "url": "https://www.luxiapreston.com/apartments/tx/plano/contact-us",
+          "label": "Contact Us",
+          "icon_url": "https://cdn.sightmap.com/app/icons/email.svg",
+          "icon_type": "email",
+          "open_new_window": true
+        },
+        null
+      ],
+      "content_type_icon": null,
+      "icon": null,
+      "descriptions": [],
+      "building": "1",
+      "affordable_housing_info": {
+        "is_affordable_housing_unit": false,
+        "affordable_housing_unit_display": null,
+        "affordable_housing_unit_disclaimer": null,
+        "affordable_housing_unit_disclaimer_title": null
+      }
+    },
+    {
+      "id": "9846853",
+      "expenses": [],
+      "display_expenses": false,
+      "total_additional_expenses": [
+        0,
+        0
+      ],
+      "unit_disclaimer_id": null,
+      "floor_id": "115966",
+      "floor_plan_id": "523363",
+      "status_id": null,
+      "unit_number": "1255",
+      "display_unit_number": "APT 1255",
+      "display_area": "1,474 sq. ft.",
+      "area": 1474,
+      "total_display_full_price": null,
+      "display_full_price": null,
+      "display_price": "$2,884.00",
+      "price": 2884,
+      "total_price": [
+        2884,
+        2884
+      ],
+      "total_display_price": "$2,884.00",
+      "show_online_leasing": true,
+      "specials_description": null,
+      "display_available_on": "Available Feb 24th",
+      "display_lease_term": "10 Months",
+      "available_on": "2025-02-24",
+      "view_image_url": null,
+      "secondary_view_image_url": null,
+      "filters": {
+        "floor_26500": [
+          1
+        ],
+        "range_76665": [
+          0,
+          4
+        ],
+        "range_76666": [
+          0,
+          1
+        ],
+        "custom_60246": [
+          0,
+          4
+        ],
+        "floor_plan_25412": [
+          0,
+          20
+        ],
+        "range_76667": [
+          0,
+          4
+        ]
+      },
+      "leasing_price_url": "https://sightmap.com/app/api/v1/leasing/yzvgd86yvln/unit/9846853?sightmap_id=85901&currency_code=USD",
+      "leasing_start_dates_url": "https://sightmap.com/app/api/v1/leasing/yzvgd86yvln/unit/9846853/start-dates?show_days_out_from_available_date=0",
+      "outbound_links": [
+        {
+          "id": "36097",
+          "iframe_event_key": null,
+          "link_type": "url_template",
+          "url": "https://www.luxiapreston.com/?utm_knock=w&doorway=schedule",
+          "label": "Schedule a Tour",
+          "icon_url": "https://cdn.sightmap.com/app/icons/calendar.svg",
+          "icon_type": "calendar",
+          "open_new_window": false
+        },
+        {
+          "id": "36098",
+          "iframe_event_key": null,
+          "link_type": "url_template",
+          "url": "https://www.luxiapreston.com/apartments/tx/plano/contact-us",
+          "label": "Contact Us",
+          "icon_url": "https://cdn.sightmap.com/app/icons/email.svg",
+          "icon_type": "email",
+          "open_new_window": true
+        },
+        null
+      ],
+      "content_type_icon": null,
+      "icon": null,
+      "descriptions": [],
+      "building": "1",
+      "affordable_housing_info": {
+        "is_affordable_housing_unit": false,
+        "affordable_housing_unit_display": null,
+        "affordable_housing_unit_disclaimer": null,
+        "affordable_housing_unit_disclaimer_title": null
+      }
+    },
+    {
+      "id": "9846857",
+      "expenses": [],
+      "display_expenses": false,
+      "total_additional_expenses": [
+        0,
+        0
+      ],
+      "unit_disclaimer_id": null,
+      "floor_id": "115967",
+      "floor_plan_id": "523349",
+      "status_id": null,
+      "unit_number": "1302",
+      "display_unit_number": "APT 1302",
+      "display_area": "1,137 sq. ft.",
+      "area": 1137,
+      "total_display_full_price": null,
+      "display_full_price": null,
+      "display_price": "$2,192.00",
+      "price": 2192,
+      "total_price": [
+        2192,
+        2192
+      ],
+      "total_display_price": "$2,192.00",
+      "show_online_leasing": true,
+      "specials_description": null,
+      "display_available_on": "Available Mar 7th",
+      "display_lease_term": "14 Months",
+      "available_on": "2025-03-07",
+      "view_image_url": null,
+      "secondary_view_image_url": null,
+      "filters": {
+        "floor_26500": [
+          2
+        ],
+        "range_76665": [
+          0,
+          3
+        ],
+        "range_76666": [
+          0,
+          2
+        ],
+        "custom_60246": [
+          0,
+          3
+        ],
+        "floor_plan_25412": [
+          0,
+          17
+        ],
+        "range_76667": [
+          0,
+          3
+        ]
+      },
+      "leasing_price_url": "https://sightmap.com/app/api/v1/leasing/yzvgd86yvln/unit/9846857?sightmap_id=85901&currency_code=USD",
+      "leasing_start_dates_url": "https://sightmap.com/app/api/v1/leasing/yzvgd86yvln/unit/9846857/start-dates?show_days_out_from_available_date=0",
+      "outbound_links": [
+        {
+          "id": "36097",
+          "iframe_event_key": null,
+          "link_type": "url_template",
+          "url": "https://www.luxiapreston.com/?utm_knock=w&doorway=schedule",
+          "label": "Schedule a Tour",
+          "icon_url": "https://cdn.sightmap.com/app/icons/calendar.svg",
+          "icon_type": "calendar",
+          "open_new_window": false
+        },
+        {
+          "id": "36098",
+          "iframe_event_key": null,
+          "link_type": "url_template",
+          "url": "https://www.luxiapreston.com/apartments/tx/plano/contact-us",
+          "label": "Contact Us",
+          "icon_url": "https://cdn.sightmap.com/app/icons/email.svg",
+          "icon_type": "email",
+          "open_new_window": true
+        },
+        null
+      ],
+      "content_type_icon": null,
+      "icon": null,
+      "descriptions": [],
+      "building": "1",
+      "affordable_housing_info": {
+        "is_affordable_housing_unit": false,
+        "affordable_housing_unit_display": null,
+        "affordable_housing_unit_disclaimer": null,
+        "affordable_housing_unit_disclaimer_title": null
+      }
+    },
+    {
+      "id": "9846862",
+      "expenses": [],
+      "display_expenses": false,
+      "total_additional_expenses": [
+        0,
+        0
+      ],
+      "unit_disclaimer_id": null,
+      "floor_id": "115967",
+      "floor_plan_id": "523372",
+      "status_id": null,
+      "unit_number": "1307",
+      "display_unit_number": "APT 1307",
+      "display_area": "699 sq. ft.",
+      "area": 699,
+      "total_display_full_price": null,
+      "display_full_price": null,
+      "display_price": "$1,491.00",
+      "price": 1491,
+      "total_price": [
+        1491,
+        1491
+      ],
+      "total_display_price": "$1,491.00",
+      "show_online_leasing": true,
+      "specials_description": null,
+      "display_available_on": "Available Now",
+      "display_lease_term": "12 Months",
+      "available_on": "2025-01-28",
+      "view_image_url": null,
+      "secondary_view_image_url": null,
+      "filters": {
+        "floor_26500": [
+          2
+        ],
+        "range_76665": [
+          0,
+          1
+        ],
+        "range_76666": [
+          0,
+          1
+        ],
+        "custom_60246": [
+          0,
+          2
+        ],
+        "floor_plan_25412": [
+          0,
+          2
+        ],
+        "range_76667": [
+          0,
+          1
+        ]
+      },
+      "leasing_price_url": "https://sightmap.com/app/api/v1/leasing/yzvgd86yvln/unit/9846862?sightmap_id=85901&currency_code=USD",
+      "leasing_start_dates_url": "https://sightmap.com/app/api/v1/leasing/yzvgd86yvln/unit/9846862/start-dates?show_days_out_from_available_date=0",
+      "outbound_links": [
+        {
+          "id": "36097",
+          "iframe_event_key": null,
+          "link_type": "url_template",
+          "url": "https://www.luxiapreston.com/?utm_knock=w&doorway=schedule",
+          "label": "Schedule a Tour",
+          "icon_url": "https://cdn.sightmap.com/app/icons/calendar.svg",
+          "icon_type": "calendar",
+          "open_new_window": false
+        },
+        {
+          "id": "36098",
+          "iframe_event_key": null,
+          "link_type": "url_template",
+          "url": "https://www.luxiapreston.com/apartments/tx/plano/contact-us",
+          "label": "Contact Us",
+          "icon_url": "https://cdn.sightmap.com/app/icons/email.svg",
+          "icon_type": "email",
+          "open_new_window": true
+        },
+        {
+          "id": "36125",
+          "iframe_event_key": null,
+          "link_type": "urls_per_unit",
+          "url": "https://my.matterport.com/show/?m=FbUhNWKai4J",
+          "label": "View Virtual Tour",
+          "icon_url": "https://cdn.sightmap.com/app/icons/360-tour.svg",
+          "icon_type": "360_tour",
+          "open_new_window": true
+        }
+      ],
+      "content_type_icon": {
+        "name": "360_tour",
+        "icon_url": "https://cdn.sightmap.com/app/icons/360-tour.svg"
+      },
+      "icon": null,
+      "descriptions": [],
+      "building": "1",
+      "affordable_housing_info": {
+        "is_affordable_housing_unit": false,
+        "affordable_housing_unit_display": null,
+        "affordable_housing_unit_disclaimer": null,
+        "affordable_housing_unit_disclaimer_title": null
+      }
+    },
+    {
+      "id": "9846899",
+      "expenses": [],
+      "display_expenses": false,
+      "total_additional_expenses": [
+        0,
+        0
+      ],
+      "unit_disclaimer_id": null,
+      "floor_id": "115967",
+      "floor_plan_id": "523353",
+      "status_id": null,
+      "unit_number": "1344",
+      "display_unit_number": "APT 1344",
+      "display_area": "744 sq. ft.",
+      "area": 744,
+      "total_display_full_price": null,
+      "display_full_price": null,
+      "display_price": "$1,614.00",
+      "price": 1614,
+      "total_price": [
+        1614,
+        1614
+      ],
+      "total_display_price": "$1,614.00",
+      "show_online_leasing": true,
+      "specials_description": null,
+      "display_available_on": "Available Mar 11th",
+      "display_lease_term": "15 Months",
+      "available_on": "2025-03-11",
+      "view_image_url": null,
+      "secondary_view_image_url": null,
+      "filters": {
+        "floor_26500": [
+          2
+        ],
+        "range_76665": [
+          0,
+          2
+        ],
+        "range_76666": [
+          0,
+          2
+        ],
+        "custom_60246": [
+          0,
+          2
+        ],
+        "floor_plan_25412": [
+          0,
+          5
+        ],
+        "range_76667": [
+          0,
+          1
+        ]
+      },
+      "leasing_price_url": "https://sightmap.com/app/api/v1/leasing/yzvgd86yvln/unit/9846899?sightmap_id=85901&currency_code=USD",
+      "leasing_start_dates_url": "https://sightmap.com/app/api/v1/leasing/yzvgd86yvln/unit/9846899/start-dates?show_days_out_from_available_date=0",
+      "outbound_links": [
+        {
+          "id": "36097",
+          "iframe_event_key": null,
+          "link_type": "url_template",
+          "url": "https://www.luxiapreston.com/?utm_knock=w&doorway=schedule",
+          "label": "Schedule a Tour",
+          "icon_url": "https://cdn.sightmap.com/app/icons/calendar.svg",
+          "icon_type": "calendar",
+          "open_new_window": false
+        },
+        {
+          "id": "36098",
+          "iframe_event_key": null,
+          "link_type": "url_template",
+          "url": "https://www.luxiapreston.com/apartments/tx/plano/contact-us",
+          "label": "Contact Us",
+          "icon_url": "https://cdn.sightmap.com/app/icons/email.svg",
+          "icon_type": "email",
+          "open_new_window": true
+        },
+        {
+          "id": "36125",
+          "iframe_event_key": null,
+          "link_type": "urls_per_unit",
+          "url": "https://my.matterport.com/show/?m=FbUhNWKai4J",
+          "label": "View Virtual Tour",
+          "icon_url": "https://cdn.sightmap.com/app/icons/360-tour.svg",
+          "icon_type": "360_tour",
+          "open_new_window": true
+        }
+      ],
+      "content_type_icon": {
+        "name": "360_tour",
+        "icon_url": "https://cdn.sightmap.com/app/icons/360-tour.svg"
+      },
+      "icon": null,
+      "descriptions": [],
+      "building": "1",
+      "affordable_housing_info": {
+        "is_affordable_housing_unit": false,
+        "affordable_housing_unit_display": null,
+        "affordable_housing_unit_disclaimer": null,
+        "affordable_housing_unit_disclaimer_title": null
+      }
+    },
+    {
+      "id": "9846922",
+      "expenses": [],
+      "display_expenses": false,
+      "total_additional_expenses": [
+        0,
+        0
+      ],
+      "unit_disclaimer_id": null,
+      "floor_id": "115968",
+      "floor_plan_id": "523365",
+      "status_id": null,
+      "unit_number": "1410",
+      "display_unit_number": "APT 1410",
+      "display_area": "847 sq. ft.",
+      "area": 847,
+      "total_display_full_price": null,
+      "display_full_price": null,
+      "display_price": "$1,779.00",
+      "price": 1779,
+      "total_price": [
+        1779,
+        1779
+      ],
+      "total_display_price": "$1,779.00",
+      "show_online_leasing": true,
+      "specials_description": null,
+      "display_available_on": "Available Mar 7th",
+      "display_lease_term": "15 Months",
+      "available_on": "2025-03-07",
+      "view_image_url": null,
+      "secondary_view_image_url": null,
+      "filters": {
+        "floor_26500": [
+          3
+        ],
+        "range_76665": [
+          0,
+          2
+        ],
+        "range_76666": [
+          0,
+          2
+        ],
+        "custom_60246": [
+          0,
+          2
+        ],
+        "floor_plan_25412": [
+          0,
+          8
+        ],
+        "range_76667": [
+          0,
+          2
+        ]
+      },
+      "leasing_price_url": "https://sightmap.com/app/api/v1/leasing/yzvgd86yvln/unit/9846922?sightmap_id=85901&currency_code=USD",
+      "leasing_start_dates_url": "https://sightmap.com/app/api/v1/leasing/yzvgd86yvln/unit/9846922/start-dates?show_days_out_from_available_date=0",
+      "outbound_links": [
+        {
+          "id": "36097",
+          "iframe_event_key": null,
+          "link_type": "url_template",
+          "url": "https://www.luxiapreston.com/?utm_knock=w&doorway=schedule",
+          "label": "Schedule a Tour",
+          "icon_url": "https://cdn.sightmap.com/app/icons/calendar.svg",
+          "icon_type": "calendar",
+          "open_new_window": false
+        },
+        {
+          "id": "36098",
+          "iframe_event_key": null,
+          "link_type": "url_template",
+          "url": "https://www.luxiapreston.com/apartments/tx/plano/contact-us",
+          "label": "Contact Us",
+          "icon_url": "https://cdn.sightmap.com/app/icons/email.svg",
+          "icon_type": "email",
+          "open_new_window": true
+        },
+        {
+          "id": "36125",
+          "iframe_event_key": null,
+          "link_type": "urls_per_unit",
+          "url": "https://my.matterport.com/show/?m=FbUhNWKai4J",
+          "label": "View Virtual Tour",
+          "icon_url": "https://cdn.sightmap.com/app/icons/360-tour.svg",
+          "icon_type": "360_tour",
+          "open_new_window": true
+        }
+      ],
+      "content_type_icon": {
+        "name": "360_tour",
+        "icon_url": "https://cdn.sightmap.com/app/icons/360-tour.svg"
+      },
+      "icon": null,
+      "descriptions": [],
+      "building": "1",
+      "affordable_housing_info": {
+        "is_affordable_housing_unit": false,
+        "affordable_housing_unit_display": null,
+        "affordable_housing_unit_disclaimer": null,
+        "affordable_housing_unit_disclaimer_title": null
+      }
+    }
+  ],
+  "use_unit_map_branding": false,
+  "created_at": "2025-01-28 18:28:57",
+  "pricing_disclaimer": {
+    "pricing_disclaimer_display": "append_long_disclaimer",
+    "pricing_disclaimer": null
+  },
+  "expense_display_option": null,
+  "pricing_display_option": "base_rent",
+  "restrict_same_day_leasing": false
+}
